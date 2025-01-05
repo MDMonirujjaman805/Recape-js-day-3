@@ -26,9 +26,18 @@ function function2(nam1,nam2){
 const result = function2(65,32);
 console.log("min is :",result);
 
-let nambers = [21,32,65,78,28,56,23,23];
-console.log(nambers);
-let nambers = [21,32,65,78,28,56,23,23];
-console.log(nambers);
 
-
+let parson = {  
+  name:'Monir',
+  age:23,
+  adderes:'gazipur'
+}
+console.log(parson);
+ 
+let parson2 = {
+  area:'chandpur',
+  gender:'male',
+  phone: '01850847585',
+  email:'monirbinkhaled1@gmail.com'
+}
+console.log(parson2);
