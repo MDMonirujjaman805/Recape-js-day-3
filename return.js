@@ -27,17 +27,29 @@ const result = function2(65,32);
 console.log("min is :",result);
 
 
-let parson = {  
-  name:'Monir',
-  age:23,
-  adderes:'gazipur'
-}
-console.log(parson);
+// let parson = {  
+//   name:'Monir',
+//   age:23,
+//   adderes:'gazipur'
+// }
+// console.log(parson);
  
-let parson2 = {
-  area:'chandpur',
-  gender:'male',
-  phone: '01850847585',
-  email:'monirbinkhaled1@gmail.com'
-}
-console.log(parson2);
+// let parson2 = {
+//   area:'chandpur',
+//   gender:'male',
+//   phone: '01850847585',
+//   email:'monirbinkhaled1@gmail.com'
+// }
+// console.log(parson2);
+
+
+// let [a, b, ...c] = [1, 2, 3, 4, 5];
+// console.log(c);
+
+// console.log(typeof null);
+
+const a = [1, 2, 3];
+console.log(a.length = 0);
+console.log(a);
+
+console.log(0.1 + 0.2 === 0.3);
