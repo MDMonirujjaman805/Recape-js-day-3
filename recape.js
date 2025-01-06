@@ -54,6 +54,12 @@ console.log(ageResult);
 
 
 
+function age(sub1,sub2,sub3){
+  const total = sub1+sub2+sub3;
+  return total;
+};    
+const agees2 = [65,20,15,65,92,87,56,23,56,];
+console.log(agees2[6]);
 
 
 
